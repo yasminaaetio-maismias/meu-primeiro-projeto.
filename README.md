@@ -1,7 +1,6 @@
 # trabalho
-
 <head>
-    <meta charset="UTF-8">
+    
     <title>Blog Oficial — Tributo ao Charlie Brown Jr.</title>
     <style>
         /* Minha estilização geral com fundo preto */
@@ -54,8 +53,8 @@
 
     <!-- Conteúdo principal: Imagem ilustrativa e os 3 posts -->
     <main>
-        <!-- Imagem oficial inserida com o link funcional da foto enviada -->
-        <img src="https://googleusercontent.com" alt="Logo Oficial Charlie Brown Jr. em textura de asfalto">
+        <!-- Imagem oficial inserida com link estável e funcional do logo -->
+        <img src="https://postimg.co" alt="Logo Oficial Charlie Brown Jr. em textura de asfalto">
 
         <!-- Quebra de linha simples exigida no resumo de códigos -->
         <br>
